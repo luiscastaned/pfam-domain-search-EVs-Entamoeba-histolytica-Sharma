@@ -44,4 +44,4 @@ Salidas: .tsv, .gff3, .png
 
 Sharma, M., Morgado, P., Zhang, H., Ehrenkaufer, G., Manna, D., & Singh, U. (2020).
 Characterization of Extracellular Vesicles from Entamoeba histolytica Identifies Roles in Intercellular Communication That Regulates Parasite Growth and Development.
-mBio, 11(5):e03138–19. https://doi.org/10.1128/mBio.03138-19
+mBio, 11(5):e03138–19. https://doi.org/10.1128/iai.00349-20
