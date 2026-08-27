@@ -26,7 +26,7 @@ pfam_heatmap_all.png: heatmap Proteína × Dominio Pfam
 
 Visualización y exportación de los resultados finales.
 
-💡 Resumen técnico
+Resumen técnico
 
 Lenguaje: Python 3
 
@@ -40,7 +40,7 @@ Notebook principal: PFAM.ipynb
 
 Salidas: .tsv, .gff3, .png
 
-📚 Referencia
+Referencia
 
 Sharma, M., Morgado, P., Zhang, H., Ehrenkaufer, G., Manna, D., & Singh, U. (2020).
 Characterization of Extracellular Vesicles from Entamoeba histolytica Identifies Roles in Intercellular Communication That Regulates Parasite Growth and Development.
